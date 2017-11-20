@@ -1,2 +1,2 @@
 # hello-world
-this repository is the test case 
+this repository is create for learning Git
